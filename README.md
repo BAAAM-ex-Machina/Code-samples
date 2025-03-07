@@ -2,7 +2,7 @@
 
 ### A collection of code from a personal projects and uni work
 
-#### <pre>C# Unity Project Code</pre>
+#### C# Unity Project Code
 
 An ongoing project to make a digital version of a board game. Of particular note is: Test, Zoom, StartingPosition, CharacterController, and Hotbar
 
