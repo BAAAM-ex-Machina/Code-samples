@@ -1,6 +1,10 @@
 # Code Samples
 
-### A collection of code from a personal project/game I'm working on in C#/unity
+### A collection of code from a personal projects and uni work
+
+#### <pre>C# Unity Project Code</pre>
+
+An ongoing project to make a digital version of a board game. Of particular note is: Test, Zoom, StartingPosition, CharacterController, and Hotbar
 
 Test is in charge of the main game loop and most inputs.
 
@@ -11,3 +15,15 @@ Starting position highlights specific tiles on the game's grid where the player 
 CharacterController is in charge of the player characters and what they can do on their turn.
 
 Hotbar is in charge of the UI features such as buttons on the bottom of the screen,
+
+
+#### C++ Zork
+
+A uni project to make a zork-esque game. Task13 is the main zork game, it will load the data from the text document map and facilitate the game by taking text input.
+
+Task19 is a simplified version of Task13 to showcase using it with a message board system, which would allow greater decoupling.
+
+
+#### Python GUI
+
+The part of a uni group project that I solely worked on. The greater project was to use machine learning to predict traffic flow to find the fastest route. This code is for the graphics user interface, allowing you too see the intersections as nodes, the roads, choosing the destination and source and cycling through the possible routes.
